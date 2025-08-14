@@ -14,27 +14,27 @@ A comprehensive COVID-19 awareness website providing accurate information, preve
 ## 📱 Website Screenshots
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](screenshots/Screenshot%20(94).png)
 *Main landing page with COVID-19 information and navigation*
 
 ### COVID-19 Information Page
-![COVID-19 Info](screenshots/covid-info-page.png)
+![COVID-19 Info](screenshots/Screenshot%20(95).png)
 *Comprehensive information about coronavirus and prevention*
 
 ### About Page
-![About Page](screenshots/about-page.png)
+![About Page](screenshots/Screenshot%20(96).png)
 *Mission and organization information*
 
 ### Doctors Page
-![Doctors Page](screenshots/doctors-page.png)
+![Doctors Page](screenshots/Screenshot%20(97).png)
 *Medical expert testimonials and advice*
 
 ### Take Action Page
-![Take Action](screenshots/action-page.png)
+![Take Action](screenshots/Screenshot%20(98).png)
 *Community action items and vaccination information*
 
 ### Contact Page
-![Contact Page](screenshots/contact-page.png)
+![Contact Page](screenshots/Screenshot%20(99).png)
 *Contact information and support resources*
 
 ## 🚀 Live Demo
